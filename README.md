@@ -8,7 +8,7 @@ This project showcases my skills, projects, and contact information in a clean a
 ## 🚀 Live Demo
 
 🔗 Live Website:
-https://karthik19-ch.github.io/portfolio-website/
+https://karthik19-ch.github.io/Portfolio-Website/
 
 ---
 
